@@ -1,0 +1,25 @@
+{
+  "cwd": "D:\\Projekty\\semestr_3\\frame_mobilne\\framework_7",
+  "type": [
+    "capacitor"
+  ],
+  "name": "My_framework7_app",
+  "framework": "react",
+  "template": "tabs",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "pkg": "io.framework7.myapp",
+  "capacitor": {
+    "platforms": [
+      "android"
+    ]
+  }
+}
